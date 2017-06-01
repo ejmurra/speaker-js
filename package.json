@@ -1,0 +1,17 @@
+{
+  "name": "speaker-js",
+  "version": "0.0.1",
+  "description": "Text to speech for node",
+  "main": "dist/Speaker.js",
+  "module": "dist/Speaker.js",
+  "jsnext:main": "dist/Speaker.js",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^7.0.22",
+    "typescript": "^2.3.4"
+  }
+}

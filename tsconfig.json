@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "strictNullChecks": true,
+    "module": "es2015",
+    "outDir": "dist",
+    "target": "es2017",
+    "declaration": true,
+    "lib": [
+      "es7"
+    ],
+    "moduleResolution": "node"
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "./node_modules"
+  ]
+}
